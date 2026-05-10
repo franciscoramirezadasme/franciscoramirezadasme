@@ -8,6 +8,15 @@ Desarrollador de software en Chile, enfocado en construir aplicaciones web, APIs
 
 Me interesa crear sistemas claros, mantenibles y utiles para resolver problemas reales, especialmente en integracion de servicios, pagos, gestion administrativa y aplicaciones web.
 
+<p>
+  <a href="https://www.linkedin.com/in/francisco-ramirez-adasme/">
+    <img src="https://img.shields.io/badge/LinkedIn-Francisco%20Ramirez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Francisco Ramirez" />
+  </a>
+  <a href="https://github.com/franciscoramirezadasme">
+    <img src="https://img.shields.io/badge/GitHub-franciscoramirezadasme-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub franciscoramirezadasme" />
+  </a>
+</p>
+
 ## Tags
 
 ![Java](https://img.shields.io/badge/Java-Backend-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -28,32 +37,39 @@ Me interesa crear sistemas claros, mantenibles y utiles para resolver problemas 
 | Cloud y tooling | AWS Amplify, Git, GitHub |
 | Datos | SQL |
 
+## Que puedo construir
+
+- APIs REST para productos web
+- Integraciones con pasarelas de pago
+- Dashboards administrativos
+- Frontends con React y TypeScript
+- Automatizaciones y procesamiento de datos con Python
+
 ## Proyectos destacados
 
-### Mercado Pago Checkout Pro Frontend
+<p>
+  <a href="https://github.com/franciscoramirezadasme/2024-MP-CheckoutPRO-front">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscoramirezadasme&repo=2024-MP-CheckoutPRO-front&theme=vue-dark&hide_border=true" alt="2024-MP-CheckoutPRO-front" />
+  </a>
+  <a href="https://github.com/franciscoramirezadasme/2023-Toteat_Payment-API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscoramirezadasme&repo=2023-Toteat_Payment-API&theme=vue-dark&hide_border=true" alt="2023-Toteat_Payment-API" />
+  </a>
+</p>
 
-Frontend para integracion de pagos con Mercado Pago Checkout Pro.
+<p>
+  <a href="https://github.com/franciscoramirezadasme/2023-franciscoramirezadasme.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscoramirezadasme&repo=2023-franciscoramirezadasme.github.io&theme=vue-dark&hide_border=true" alt="2023-franciscoramirezadasme.github.io" />
+  </a>
+</p>
 
-[Ver repo](https://github.com/franciscoramirezadasme/2024-MP-CheckoutPRO-front)
-
-### Toteat Payment API
-
-API en Python orientada a reportes y procesamiento de informacion de pagos y operaciones para restaurantes.
-
-[Ver repo](https://github.com/franciscoramirezadasme/2023-Toteat_Payment-API)
-
-### Portfolio Web
-
-Sitio personal publicado con GitHub Pages.
-
-[Ver repo](https://github.com/franciscoramirezadasme/2023-franciscoramirezadasme.github.io)
-
-## Actualmente
+## En que estoy trabajando
 
 - Profundizando en Java y arquitectura backend
-- Mejorando proyectos full-stack con React y APIs
-- Ordenando mi portafolio tecnico en GitHub
+- Mejorando proyectos full-stack con React, TypeScript y APIs
+- Documentando mejor mis repositorios publicos
+- Ordenando mi portafolio tecnico
 
 ## Contacto
 
 - GitHub: [franciscoramirezadasme](https://github.com/franciscoramirezadasme)
+- LinkedIn: [francisco-ramirez-adasme](https://www.linkedin.com/in/francisco-ramirez-adasme/)

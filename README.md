@@ -11,16 +11,6 @@ Me interesa crear sistemas claros, mantenibles y utiles para resolver problemas 
 - Cloud y tooling: AWS Amplify, Git, GitHub
 - Bases de datos: SQL
 
-## Como aporto
-
-Mis contribuciones no se limitan a commits: tambien busco entender el problema, ordenar el codigo, mejorar flujos existentes y dejar soluciones mas faciles de mantener.
-
-- Desarrollo y mejora de APIs REST
-- Integracion de servicios externos, especialmente pagos
-- Construccion de interfaces web con React y JavaScript/TypeScript
-- Revision de errores, ajustes funcionales y mejoras de documentacion
-- Apoyo en proyectos donde se necesita conectar backend, frontend y datos
-
 ## Proyectos destacados
 
 ### Mercado Pago Checkout Pro Frontend
